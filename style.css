@@ -15,7 +15,7 @@ main{
     background-color:hsl(0, 0%, 100%) ;
     border-radius: 1rem;
     margin: auto;
-    width: 60%;
+    width: 50%;
     transform: translateY(10%)
 }
 .content{
